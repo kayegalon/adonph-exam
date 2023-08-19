@@ -1,6 +1,8 @@
-# adonph-exam
+# adonph-exam  
 
-##Stuff to work on:
+
+
+## Stuff to work on:  
 -fully polished desktop design  
 -mobile view  
 -sticky header/navigation menu  
