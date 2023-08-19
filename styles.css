@@ -216,8 +216,8 @@ body {
 }
 
 .block-3 .content .icons .icon-3 .logo {
-	border: 1px solid #98ff98;
-	background-color: #98ff98;
+	border: 1px solid rgb(152, 255, 152);
+	background-color: rgb(152, 255, 152);
 	border-radius: 50%;
 	height: 5rem;
 	width: 5rem;
